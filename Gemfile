@@ -40,3 +40,4 @@ gem 'jquery-rails'
 
 # To use debugger
 gem 'haml'
+gem 'capybara-screenshot', :group => :test
